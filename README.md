@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ABHISHEK KUMAR
-- 👀 I’m interested in Embedded Systems, Machine Learning and VLSI Design
+- 👀 I’m interested in Embedded Systems and VLSI Design
 - 🌱 I’m currently learning B.E. ECE at SRM Easwari Engineering College
 
 <!---
